@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Human-Robot Interaction (HRI) Researcher at <a href='https://gatech.edu/'>Georgia Tech</a>
-
+# subtitle: Robotics and Human-Computer Interaction Researcher at <a href='https://gatech.edu/'>Georgia Tech</a>
+subtitle: <b>Contact:</b> yunhoyunho ＠ gatech · edu <br/> <b>Interests:</b> <u>Large Transformer Models</u>, <u>Human-Robot Interaction</u>, <u>Assistive Technology for Sensory Disabilities</u>, <u>Mental Health</u>
 profile:
   align: right
   image: prof_pic.jpg
@@ -27,8 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I am a senior undergraduate student studying Mechanical Engineering and Psychology at [Georgia Tech](https://www.gatech.edu), advised by [Shreyas Kousik](https://www.shreyaskousik.com/). Previously, I worked in [GTRI](https://gtri.gatech.edu/) [Electronic Systems Laboratory](https://www.gtri.gatech.edu/laboratories/electronic-systems-laboratory)[,](https://hybrid-robotics.berkeley.edu/) [SightWise](https://sightwise.co/) (a startup), and [Asan Medical Center](https://bmerc.amc.seoul.kr). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My passion lies in devising novel information representations to enable efficient computations and intuitive human experiences. In specific, I seek to work on:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+1. Applying computational approaches to new domains
+    - including traditional sciences, unobservable or subjective phenomena, etc.
+2. Utilizing joint information representations and test-time input augmentations to extend the capabilities of large transformer models (e.g., LLM)
+3. Devising human-centered communication and control schemes by considering human perceptual, cognitive, and motor characteristics
+4. Utilizing large-scale unlabeled data (e.g., videos) for weak self-supervised learning of joint/multimodal information representations
+    - including value functions, world state perception and prediction, etc.
+
+My life goal is to tackle underserved problems (e.g., affordable and useful assistive technology devices) and create solutions that directly improve the quality of lives of individuals.
